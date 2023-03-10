@@ -1,0 +1,16 @@
+Versão
+tsc -v
+
+Compilador
+tsc --init
+
+Executar arquivos TypeScript
+tsc nomeArquivo.ts
+Com codeRunner
+npm i -g ts-node
+
+Rodar Automaticamente
+tsc -watch
+
+Rodar namespaces em multiplos arquivos
+tsc -w --outflie namespaces.ts GeoCirc.ts GeoRet.ts

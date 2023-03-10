@@ -1,0 +1,5 @@
+Herança - eu posso herdar todos os atributos e comportamentos 
+de uma classe com extend
+super() eu consigo modificar os parametros da classe pai 
+
+atributo protected - eu consigo herdar os metodos da classe Pai atraves desse atributo
